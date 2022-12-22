@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lapauligonzalez
 - 👀 I’m interested in developing new proyects where I can contribute creatively.
-- 🌱 I’m currently learning Data Science skills such as statistics, analitics and information visualization.
+- 🌱 I’m currently learning Data Science skills such as statistics, descriptive and predictive analytics and information visualization.
 - 📫 You can reach me via email: paulgonzalez@itba.edu.ar
 <!---
 lapauligonzalez/lapauligonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
