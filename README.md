@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lapauligonzalez
-- 👀 I’m interested in developing new proyects where I can contribute creatively.
+- 👀 I’m interested in developing new projects where I can contribute creatively.
 - 🌱 I’m currently learning Data Science skills such as statistics, descriptive and predictive analytics and information visualization.
 - 📫 You can reach me via email: paulaagonzalez05@gmail.com
 <!---
